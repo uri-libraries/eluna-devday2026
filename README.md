@@ -24,7 +24,7 @@ This repository demonstrates how to automate Alma user management tasks using co
 
 ### Demo Workflow 
 
-1. <b>Check if expiration date is blank</b> (Python: `expiration-checker.py`)
+1. <b>Check if expiration date is blank</b> (Python: `purge_date_report.py`)
 
 2. <b>Add expiration date if blank, by patron type
 
