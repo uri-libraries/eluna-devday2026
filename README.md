@@ -51,7 +51,7 @@ This repository demonstrates how to automate Alma user management tasks using co
 
 ### Setup
 
-1. <b>Install dependencies</b> (for Python scripts): 
+1. <b>Install dependencies</b> (for Python scripts): `pip install requests` and `pip install python-dotenv`
 
 2. <b>Configure API credentials:</b>
 
